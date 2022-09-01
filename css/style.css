@@ -1,0 +1,19 @@
+h2 {
+    color:red;
+    text-align: center;
+    font-weight: 900;
+    font-style:italic;
+    text-decoration: underline;
+    font-size: 30px;
+}
+.chapter {
+    color: #4b0082;
+}
+#begin {
+    color:orange;
+    font-weight: bold;
+}
+
+.italic_text {
+    font-weight: 900;
+}
